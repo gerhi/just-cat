@@ -1,0 +1,21 @@
+﻿item_id;question_text;response_type;model;a;b;c;option_1;option_2;option_3;option_4;correct_option
+TS01;What do Taylor Swift's fans call themselves?;multiple_choice;3PL;1,40;-2,30;0,20;Tay-Tays;Swifties;Swifters;Taylorettes;2
+TS02;Which number does Taylor Swift consider her lucky number?;multiple_choice;3PL;1,30;-1,60;0,22;7;22;13;89;3
+TS03;What was the name of Taylor Swift's record-breaking concert tour that started in 2023?;multiple_choice;3PL;1,50;-2,00;0,20;The Eras Tour;The Lover Tour;The Midnights Tour;The Showgirl Tour;1
+TS04;Which album is named after the year Taylor Swift was born?;multiple_choice;3PL;1,60;-1,10;0,18;Red;Lover;Midnights;1989;4
+TS05;What is added to the titles of her re-recorded albums?;multiple_choice;3PL;1,50;-0,90;0,20;(Taylor's Version);(Swift Edition);(Re-Recorded);(Taylor's Cut);1
+TS06;In which US state was Taylor Swift born?;multiple_choice;3PL;1,10;-0,50;0,22;Tennessee;Texas;Pennsylvania;New York;3
+TS07;Which album era is most closely associated with snake imagery?;multiple_choice;3PL;1,20;-0,40;0,20;Red;reputation;Lover;folklore;2
+TS08;Which of these is the name of one of Taylor Swift's cats?;multiple_choice;3PL;1,30;-0,20;0,18;Rory Gilmore;Leslie Knope;Olivia Benson;Jessica Day;3
+TS09;What was the title of Taylor Swift's debut album (2006)?;multiple_choice;3PL;1,00;-0,30;0,24;Fearless;Taylor Swift;Speak Now;Red;2
+TS10;"Which two albums did Taylor Swift release as ""sister albums"" in 2020?";multiple_choice;3PL;1,40;0,10;0,20;Lover and folklore;folklore and evermore;Red and 1989;evermore and Midnights;2
+TS11;"Which song was released in a famous ""10 Minute Version"" in 2021?";multiple_choice;3PL;1,50;0,30;0,20;Love Story;Enchanted;All Too Well;Dear John;3
+TS12;Which of these album titles is officially written entirely in lowercase?;multiple_choice;3PL;1,10;0,60;0,22;Red;Lover;Speak Now;folklore;4
+TS13;What is the title of Taylor Swift's 12th studio album, released in October 2025?;multiple_choice;3PL;1,30;0,50;0,20;The Life of a Showgirl;The Final Act;Starlight Avenue;Daydream Ballroom;1
+TS14;With which album did Taylor Swift win her first Grammy for Album of the Year?;multiple_choice;3PL;1,60;0,80;0,18;Red;Speak Now;Fearless;1989;3
+TS15;How many times had Taylor Swift won the Grammy for Album of the Year by the end of 2025?;multiple_choice;3PL;1,40;1,00;0,22;2;3;4;5;3
+TS16;What was Taylor Swift's first single, released in 2006?;multiple_choice;3PL;1,70;1,10;0,17;Teardrops on My Guitar;Tim McGraw;Our Song;Picture to Burn;2
+TS17;"Which three songs on folklore tell the story of a ""teenage love triangle""?";multiple_choice;3PL;1,80;1,30;0,16;exile, seven and the 1;mirrorball, peace and hoax;cardigan, august and betty;willow, gold rush and champagne problems;3
+TS18;"Who starred alongside Dylan O'Brien in ""All Too Well: The Short Film"" (2021)?";multiple_choice;3PL;1,60;1,50;0,18;Sadie Sink;Millie Bobby Brown;Zendaya;Florence Pugh;1
+TS19;In which US city did the Eras Tour begin in March 2023?;multiple_choice;3PL;1,90;1,80;0,15;Nashville;Las Vegas;Los Angeles;Glendale;4
+TS20;"Under which pseudonym was Taylor Swift credited as a songwriter on Calvin Harris's ""This Is What You Came For""?";multiple_choice;3PL;2,00;2,10;0,15;Lars Lindqvist;Nils Sjöberg;Henrik Nilsson;Sven Ekberg;2

@@ -1,0 +1,23 @@
+# Adaptive testing – Apache configuration (shared hosting)
+
+Options -Indexes
+DirectoryIndex index.php
+
+# Short test links: /t/my-test  →  t.php?slug=my-test
+# If your host has no mod_rewrite, untick "Short links" during installation
+# (or set 'pretty_urls' => false in lib/config.php); links then use t.php?slug=…
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^t/([a-z0-9-]+)/?$ t.php?slug=$1 [L,QSA]
+</IfModule>
+
+# Do not serve documentation or backup files
+<FilesMatch "\.(md|bak|sql|log|ini)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>

@@ -1,0 +1,21 @@
+﻿item_id;question_text;response_type;model;a;b;c;option_1;option_2;option_3;option_4;correct_option
+K01;Wie viel ist 7 × 8?;multiple_choice;3PL;1,19;-2,00;0,20;54;56;58;64;2
+K02;Wie viel ist 15 % von 200?;multiple_choice;3PL;0,98;-1,00;0,20;15;20;30;35;3
+K03;Welche Zahl setzt die Reihe fort: 2, 4, 8, 16, …;multiple_choice;3PL;1,58;-0,60;0,20;18;24;32;36;3
+K04;Welche Zahl setzt die Reihe fort: 3, 6, 11, 18, 27, …;multiple_choice;3PL;0,89;0,40;0,20;36;38;39;40;2
+K05;Ein Zug fährt 240 km in 3 Stunden. Wie schnell fährt er im Durchschnitt?;multiple_choice;3PL;1,44;-0,30;0,20;60 km/h;70 km/h;80 km/h;90 km/h;3
+K06;Welches Wort passt nicht: Apfel, Birne, Kartoffel, Kirsche;multiple_choice;3PL;1,24;-1,20;0,20;Apfel;Birne;Kartoffel;Kirsche;3
+K07;Wie viele Minuten haben 2,5 Stunden?;multiple_choice;3PL;0,87;-0,80;0,20;130;150;160;250;2
+K08;Wenn alle Bloops Razzies sind und alle Razzies Lazzies, sind dann alle Bloops Lazzies?;multiple_choice;3PL;1,41;0,20;0,27;Ja;Nein;Nicht entscheidbar;;1
+K09;Welche Zahl setzt die Reihe fort: 1, 1, 2, 3, 5, 8, …;multiple_choice;3PL;0,84;-0,10;0,20;11;12;13;14;3
+K10;Ein Preis steigt um 10 % und sinkt danach um 10 %. Wie hoch ist er im Vergleich zum Ausgangspreis?;multiple_choice;3PL;1,32;1,30;0,20;gleich;1 % höher;1 % niedriger;10 % niedriger;3
+K11;Welche Zahl setzt die Reihe fort: 2, 6, 12, 20, 30, …;multiple_choice;3PL;0,88;0,70;0,20;40;42;44;48;2
+K12;Wie viel ist 3/4 von 2/3?;multiple_choice;3PL;0,91;1,00;0,20;1/4;1/2;5/7;9/8;2
+K13;Die Zahl 91 ist eine Primzahl.;dichotomous;2PL;1,31;0,50;;Richtig;Falsch;;;2
+K14;Ein Dreieck kann zwei rechte Winkel haben.;dichotomous;2PL;1,79;-1,50;;Richtig;Falsch;;;2
+K15;Die Summe der Innenwinkel eines Vierecks beträgt 360°.;dichotomous;2PL;0,95;-0,40;;Richtig;Falsch;;;1
+K16;0,1 + 0,2 ist genau 0,3.;dichotomous;2PL;1,07;1,60;;Richtig;Falsch;;;1
+K17;Jede gerade Zahl größer als 2 ist eine Primzahl.;dichotomous;2PL;1,55;-1,80;;Richtig;Falsch;;;2
+K18;Ein Kilogramm Federn ist leichter als ein Kilogramm Eisen.;dichotomous;1PL;;-0,90;;Richtig;Falsch;;;2
+K19;Die Quadratwurzel aus 144 ist 12.;dichotomous;1PL;;-1,10;;Richtig;Falsch;;;1
+K20;Wenn heute Mittwoch ist, ist in 10 Tagen Samstag.;dichotomous;1PL;;0,90;;Richtig;Falsch;;;1

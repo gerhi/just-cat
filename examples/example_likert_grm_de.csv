@@ -1,0 +1,16 @@
+﻿item_id;question_text;response_type;model;a;b1;b2;b3;b4;likert_min_label;likert_max_label;reverse
+L01;Ich erledige Aufgaben, bevor sie dringend werden.;likert;GRM;2,37;-1,24;-0,02;1,41;2,24;trifft gar nicht zu;trifft voll zu;0
+L02;Ich plane meinen Tag im Voraus.;likert;GRM;1,29;-2,55;-1,19;0,09;1,65;trifft gar nicht zu;trifft voll zu;0
+L03;Ich lasse Dinge oft bis zur letzten Minute liegen.;likert;GRM;1,10;-1,79;-0,62;0,65;1,67;trifft gar nicht zu;trifft voll zu;1
+L04;Ich halte meine Unterlagen gut geordnet.;likert;GRM;1,73;-2,36;-1,20;-0,04;1,38;trifft gar nicht zu;trifft voll zu;0
+L05;Ich bringe begonnene Projekte zu Ende.;likert;GRM;1,84;-2,14;-0,94;0,08;1,52;trifft gar nicht zu;trifft voll zu;0
+L06;Ich vergesse häufig Termine.;likert;GRM;1,67;-1,26;-0,18;1,29;2,17;trifft gar nicht zu;trifft voll zu;1
+L07;Ich setze mir klare Ziele für meine Arbeit.;likert;GRM;2,22;-1,80;-0,29;0,73;2,31;trifft gar nicht zu;trifft voll zu;0
+L08;Ich prüfe meine Arbeit sorgfältig auf Fehler.;likert;GRM;1,93;-1,66;-0,66;0,69;1,97;trifft gar nicht zu;trifft voll zu;0
+L09;Ich halte Absprachen zuverlässig ein.;likert;GRM;1,10;-1,87;-0,59;0,42;1,83;trifft gar nicht zu;trifft voll zu;0
+L10;Es fällt mir schwer, mit einer Aufgabe anzufangen.;likert;GRM;1,62;-1,59;-0,18;0,95;1,99;trifft gar nicht zu;trifft voll zu;1
+L11;Ich arbeite auch an langweiligen Aufgaben konzentriert weiter.;likert;GRM;1,09;-2,02;-0,45;0,64;1,84;trifft gar nicht zu;trifft voll zu;0
+L12;Ich überlege genau, bevor ich eine Entscheidung treffe.;likert;GRM;1,13;-1,79;-0,37;0,89;2,45;trifft gar nicht zu;trifft voll zu;0
+L13;Ich lasse mich bei der Arbeit leicht ablenken.;likert;GRM;1,45;-2,05;-0,63;0,55;1,94;trifft gar nicht zu;trifft voll zu;1
+L14;Ich mache mehr, als von mir erwartet wird.;likert;GRM;1,28;-2,22;-0,68;0,55;1,46;trifft gar nicht zu;trifft voll zu;0
+L15;Ich halte mich an Pläne, die ich gemacht habe.;likert;GRM;1,01;-2,59;-1,13;0,11;1,23;trifft gar nicht zu;trifft voll zu;0
