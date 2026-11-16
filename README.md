@@ -1,4 +1,4 @@
-# JUST
+# JUST-CAT
 
 **J**ust **U**pload, **S**elect, **T**est: a web application for computerized adaptive tests (CAT) based on item response theory, build as a companion to limesurvey. It needs PHP and a MySQL/MariaDB database, so it runs on ordinary shared web hosting that also runs limesurvey.
 
